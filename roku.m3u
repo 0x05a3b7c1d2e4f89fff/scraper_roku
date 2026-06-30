@@ -215,8 +215,6 @@ https://aka-live1050.delivery.roku.com/e4e2a5ba-9578-466a-ad3c-0c53e75f523f/t2-o
 https://aka-live1050.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="9dd23031622757d1944e4782b2a192ef" tvg-id="9dd23031622757d1944e4782b2a192ef" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Ninja Kidz TV
 https://aka-live1050.delivery.roku.com/e1fd262e-a2e3-445d-ac01-53f25383a98c/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 channel-id="9cb058af15a0fdacf5aa87b78b2e3d33" tvg-id="9cb058af15a0fdacf5aa87b78b2e3d33" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC2 HD
-https://aka-live1050.delivery.roku.com/20c68698-3c0c-49fe-a617-47b30d5ba54d/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="015c83c4485a597d9e2132252e2a75ae" tvg-id="015c83c4485a597d9e2132252e2a75ae" tvg-chno="" tvg-name="" tvg-logo="" group-title="",QVC
 https://aka-live1050.delivery.roku.com/c041f540-13c1-4023-930a-bc87e6fd3641/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-id="0057bb20ce6c5717a5a025f2a73b682a" tvg-chno="" tvg-name="" tvg-logo="" group-title="",HSN HD
@@ -283,6 +281,8 @@ https://aka-live1050.delivery.roku.com/438c0a34-65b5-4561-bd9e-46a0df6e6496/t2-o
 https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="8ba514251e1a58b7b53368177baa1041" tvg-id="8ba514251e1a58b7b53368177baa1041" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Law & Crime
 https://aka-live1050.delivery.roku.com/c8620cf9-c802-4867-a846-ed2960692499/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="4f4e0f3d9e1f5c8c9e627514fc5a071d" tvg-id="4f4e0f3d9e1f5c8c9e627514fc5a071d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",True Crime Now
+https://aka-live1050.delivery.roku.com/e0c30cc2-c739-434e-a381-eb1546c7c0aa/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="62945e18ab825bfd8b4995d9bd14917b" tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-chno="" tvg-name="" tvg-logo="" group-title="",FilmRise Forensic Files
 https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Reelz Famous and Infamous
@@ -633,3 +633,7 @@ https://aka-live1050.delivery.roku.com/e315a33c-9101-4e32-b6ee-34fdc2988e17/t2-o
 https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Cityscapes
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-id="d90a57a66251fdda967c2e2b9e6aa25d" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Stingray Free Riding
+https://aka-live1050.delivery.roku.com/1a63d26b-e049-418f-9ba0-3dc6f89382b3/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 channel-id="60db737695c95b599dad50d2c5595fe3" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Vevo Reggaeton & Trap
+https://aka-live1050.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live.m3u8
